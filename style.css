@@ -1,0 +1,20 @@
+/*
+Theme Name: Knockback
+Theme URI: http://aschmelyun.com/knockback
+Author: Andrew Schmelyun
+Author URI: http://aschmelyun.com
+Description: A boilerplate theme that uses the Underscores WordPress skeleton and the Cannonfire SCSS front-end framework to enable rapid responsive WordPress development
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: knockback
+Tags: knockback,cannonfire,scss,sass,boilerplate,skeleton,hackable,underscores,customizeable,simple,simplistic
+
+Knockback is based on the Underscores WordPress skeleton theme and the Cannonfire SCSS front-end framework.
+
+The main CSS file is located in assets/css/main.css, although the compiled main.min.css is used by default.
+All SCSS files are located in assets/scss/ 
+
+*/
+
+@import('assets/css/main.min.css');
